@@ -150,7 +150,7 @@ export default function Contact() {
         <form
           name="contact"
           method="POST"
-          data-netlify="true"
+          netlify
           netlify-honeypot="bot-field"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0 sm:px-4 px-6"
