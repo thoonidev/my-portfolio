@@ -32,14 +32,16 @@ export default function About() {
               </span>
             </a>
             <a
-              href="#projects"
+              href="/cv/mi-cv.pdf" download
+              target="_blank"
+              rel="noopener noreferrer"
               className="w-full sm:w-auto inline-flex justify-center items-center text-white bg-purple-700 py-2 px-5 rounded text-base hover:bg-purple-800 shadow-lg hover:shadow-purple-400 transition duration-300"
               style={{
                 boxShadow:
                   "0 0 10px #8b5cf6, 0 0 20px #7c3aed, 0 0 30px #6d28d9",
               }}
             >
-              Proyectos
+              Descargar CV
               <span role="img" aria-label="cohete" className="ml-2">
                 🚀
               </span>
