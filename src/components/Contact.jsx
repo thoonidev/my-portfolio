@@ -131,18 +131,6 @@ export default function Contact() {
               >
                 anthony.abel.alanya@gmail.com
               </a>
-              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                DESCARGAR CV
-              </h2>
-              <a
-                href="/cv/mi-cv.pdf"
-                download
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block mt-2 bg-indigo-600 text-white px-4 py-2 rounded hover:bg-indigo-700 transition"
-              >
-                Descargar PDF
-              </a>
             </div>
           </div>
         </div>
