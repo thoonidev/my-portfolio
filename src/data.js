@@ -35,12 +35,16 @@ export const projects = [
   
   export const learning = [
     {
-      url: "https://www.youtube.com/embed/D1Iln720s2w",
+      url: "https://www.youtube.com/shorts/jO1N9B-yHjo",
       title: "Animaciones en HTML - CSS - JS",
     },
     {
-      url: "https://www.youtube.com/embed/uVToWsgyiZo",
+      url: "https://www.youtube.com/shorts/3S23ovXWtr4",
       title: "Estilos de botones en CSS",
+    },
+    {
+      url: "https://www.youtube.com/shorts/LfAxNvtTpFU",
+      title: "Probando datos APP",
     },
   ];
   
