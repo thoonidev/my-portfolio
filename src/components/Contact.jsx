@@ -131,6 +131,10 @@ export default function Contact() {
               >
                 anthony.abel.alanya@gmail.com
               </a>
+              <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
+              UBICACIÓN
+              </h2>
+              <p className="text-indigo-400 leading-relaxed">Lima, Perú</p>
             </div>
           </div>
         </div>
