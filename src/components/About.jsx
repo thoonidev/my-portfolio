@@ -32,7 +32,7 @@ export default function About() {
               </span>
             </a>
             <a
-              href="/cv/mi-cv.pdf" download
+              href="/cv/mi-cv_1.pdf" download
               target="_blank"
               rel="noopener noreferrer"
               className="w-full sm:w-auto inline-flex justify-center items-center text-white bg-purple-700 py-2 px-5 rounded text-base hover:bg-purple-800 shadow-lg hover:shadow-purple-400 transition duration-300"
