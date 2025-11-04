@@ -13,11 +13,9 @@ export default function About() {
           </h1>
           <p className="text-base leading-relaxed max-w-md">
             Enfocado en el desarrollo backend con Java y Spring Boot. 
-            Actualmente estudio Computación e Informática (4.º ciclo) 
-            y tengo experiencia en programación orientada a objetos, 
-            bases de datos (MySQL, SQL Server) y control de versiones con Git/GitHub.
-            Me apasiona el aprendizaje continuo, escribir código limpio 
-            y trabajar en equipo para crear soluciones que generen impacto.
+            Estudiante de Computación e Informática (4.º ciclo), 
+            con experiencia en POO, bases de datos y Git/GitHub. 
+            Apasionado por el aprendizaje continuo y el código limpio.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
