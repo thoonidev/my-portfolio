@@ -31,6 +31,14 @@ export const projects = [
       image: "./project-4.gif",
       link: "https://github.com/thoonidev/TeachMate",
     },
+    {
+      title: "SmartInventory",
+      subtitle: "JAVA-SPRING-MYSQL-REACT-TAILWINDCSS",
+      description:
+        "Desarrollo de un sistema web para una tienda de productos de limpieza donde se gestiona el inventario, compra, venta y devolucion.",
+      image: "./project-5.gif",
+      link: "https://github.com/thoonidev/SmartInventory",
+    },
   ];
   
   export const learning = [
