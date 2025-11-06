@@ -13,8 +13,8 @@ export default function About() {
           </h1>
           <p className="text-base leading-relaxed max-w-md">
             Desarrollador backend en formación con enfoque en Java y Spring Boot. 
-            Experiencia en bases de datos, Git/GitHub y desarrollo de sistemas con React, 
-            Angular y Thymeleaf. Apasionado por el aprendizaje continuo y el código limpio.
+            Conocimientos en bases de datos y control de versiones con Git/GitHub. 
+            He desarrollado sistemas con React, Angular y Thymeleaf.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
