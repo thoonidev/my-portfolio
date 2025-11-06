@@ -12,8 +12,8 @@ export default function About() {
             Desarrollador de Software.
           </h1>
           <p className="text-base leading-relaxed max-w-md">
-            Desarrollador backend en formación con enfoque en Java y Spring Boot. 
-            Conocimientos en bases de datos y control de versiones con Git/GitHub. 
+            Actualmente en formación con enfoque en Java y Spring Boot.
+            Conocimientos en base de datos y control de versiones con Git/GitHub. 
             He desarrollado sistemas con React, Angular y Thymeleaf.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
