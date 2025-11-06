@@ -12,10 +12,9 @@ export default function About() {
             Desarrollador de Software.
           </h1>
           <p className="text-base leading-relaxed max-w-md">
-            Enfocado en el desarrollo backend con Java y Spring Boot. 
-            Estudiante de Computación e Informática (4.º ciclo), 
-            con experiencia en POO, bases de datos y Git/GitHub. 
-            Apasionado por el aprendizaje continuo y el código limpio.
+            Desarrollador backend en formación con enfoque en Java y Spring Boot. 
+            Experiencia en bases de datos, Git/GitHub y desarrollo de sistemas con React, 
+            Angular y Thymeleaf. Apasionado por el aprendizaje continuo y el código limpio.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
