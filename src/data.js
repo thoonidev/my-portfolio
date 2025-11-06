@@ -43,7 +43,7 @@ export const projects = [
       title: "Librolink",
       subtitle: "JAVA-SPRING-MYSQL-THYMELEAF-BOOTSTRAP",
       description:
-        "Desarrollo de un sistema web para una bliblioteca con vista usuario y administrador donde se gestiona mantenimiento de libros, carrito compras y actvidades.",
+        "Desarrollo de un sistema web para una bliblioteca con vista usuario y administrador donde se gestiona mantenimiento de libros, carrito compras, actvidades y reportes con JasperReports.",
       image: "./project-6.gif",
       link: "https://github.com/thoonidev/Librolink",
     },
