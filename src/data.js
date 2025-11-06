@@ -39,6 +39,14 @@ export const projects = [
       image: "./project-5.gif",
       link: "https://github.com/thoonidev/SmartInventory",
     },
+    {
+      title: "Librolink",
+      subtitle: "JAVA-SPRING-MYSQL-THYMELEAF-BOOTSTRAP",
+      description:
+        "Desarrollo de un sistema web para una bliblioteca con vista usuario y administrador donde se gestiona mantenimiento de libros, carrito compras y actvidades.",
+      image: "./project-6.gif",
+      link: "https://github.com/thoonidev/Librolink",
+    },
   ];
   
   export const learning = [
