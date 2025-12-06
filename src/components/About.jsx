@@ -12,9 +12,11 @@ export default function About() {
             Desarrollador de Software.
           </h1>
           <p className="text-base leading-relaxed max-w-md">
-            Actualmente en formación con enfoque en Java y Spring Boot.
-            Conocimientos en base de datos y control de versiones con Git/GitHub. 
-            He desarrollado sistemas con React, Angular y Thymeleaf.
+            Desarrollador en formación con conocimientos en Java, C#, JavaScript, MySQL, React, Git y GitHub. 
+            Interesado en aplicar buenas prácticas de desarrollo y colaborar en proyectos que permitan aprender, 
+            aportar y crecer profesionalmente. 
+            Busco prácticas preprofesionales donde enfrentar desafíos reales y fortalecer mis habilidades técnicas, 
+            adaptándome a distintos entornos de desarrollo.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
             <a
