@@ -15,7 +15,7 @@ export default function About() {
             Desarrollador en formación con conocimientos en Java, C#, JavaScript, MySQL, React, Git y GitHub. 
             Interesado en aplicar buenas prácticas de desarrollo y colaborar en proyectos que permitan aprender, 
             aportar y crecer profesionalmente. 
-            Busco prácticas preprofesionales donde enfrentar desafíos reales y fortalecer mis habilidades técnicas, 
+            Busco prácticas donde enfrentar desafíos reales y fortalecer mis habilidades técnicas, 
             adaptándome a distintos entornos de desarrollo.
           </p>
           <div className="flex flex-col sm:flex-row items-center gap-4">
